@@ -14,6 +14,6 @@ Based on example from this [app note](https://www.ti.com/lit/an/slva933/slva933.
 |Output Voltage Ripple|1%|
 |Output Current Rating|Max 0.8 A|
 
-Schematic can be foudn[here](docs/schematic/tps54202_inverting_breakout.pdf)
+Schematic can be found [here](docs/schematic/tps54202_inverting_breakout.pdf)
 
 Layout can be found [here](docs/bom/ibom.html)
